@@ -7,7 +7,7 @@ office to manage farmer accounts, review crop records, monitor SMS delivery
 and AI usage, publish Information Hub articles, and export reports.
 
 This is a **front-end prototype**: everything runs on mock data in the
-browser (no backend/database yet). It's built to be easy for a group to
+browser (no backend/database yet). It's built to be easy to
 split up and keep building on.
 
 ## Tech stack
